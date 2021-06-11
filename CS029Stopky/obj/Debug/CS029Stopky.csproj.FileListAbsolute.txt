@@ -1,0 +1,10 @@
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\obj\Debug\CS029Stopky.csprojAssemblyReference.cache
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\obj\Debug\CS029Stopky.CS029Stopky.resources
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\obj\Debug\CS029Stopky.Properties.Resources.resources
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\obj\Debug\CS029Stopky.csproj.GenerateResource.cache
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\obj\Debug\CS029Stopky.csproj.CoreCompileInputs.cache
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\bin\Debug\CS029Stopky.exe.config
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\bin\Debug\CS029Stopky.exe
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\bin\Debug\CS029Stopky.pdb
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\obj\Debug\CS029Stopky.exe
+C:\Users\Favy\source\repos\CS029Stopky\CS029Stopky\obj\Debug\CS029Stopky.pdb
